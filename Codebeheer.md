@@ -48,8 +48,8 @@ Per bouwblok:
 
 ## Beheer organisatie
 Open Webconcept Foundation : 
-* Beheert https://github.com/organizations/Open Webconcept/
-* Beheert regels 
+* Beheert https://github.com/OpenWebconcept
+* Beheert afspraken (https://github.com/OpenWebconcept/Afspraken/)
 * Bijhouden wordpress plugin lijst (json)
 * Aanmaken repositories
 * Rechten  aan gemeenten geven op repository
