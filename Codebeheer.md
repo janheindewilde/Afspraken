@@ -25,7 +25,7 @@ Voor deze bouwblokkken kunnen we dan ook bepaalde eisen ophalen:
 * Pragmatische insteek, alleen formeel wanneer het nodig is
 * Ook een reeële manier om weer te verlaten
 * Garanties ten opzichte van elkaar
-* WordPress installer : https://github.com/VNG-Realisatie/Open Webconcept (moet https://github.com/Open Webconcept/  worden)
+* WordPress installer : https://github.com/VNG-Realisatie/OpenWebconcept (moet https://github.com/OpenWebconcept/  worden)
 * Losse componenent:
 	* Code deelbaar
 	* Zelfde licentie
@@ -36,7 +36,7 @@ Voor deze bouwblokkken kunnen we dan ook bepaalde eisen ophalen:
 
 ## Invulling Bouwblokken
 Per bouwblok:
-* Te vinden op https://github.com/organizations/Open Webconcept/
+* Te vinden op https://github.com/organizations/OpenWebconcept/
 * Licentie is EUPL
 * Eén repository met die bloknaam
 * Wordpress notificatie wanneer er een update is
