@@ -8,7 +8,7 @@ Binnen het Open Webconcept hanteren we de volgende uitgangspunten:
 * Vrije marktwerking
 * Open samenwerking
 * Pragmatisch
-Intentieverklaring op: https://Open Webconcept.nl/intentieverklaring/
+Intentieverklaring op: https://OpenWebconcept.nl/intentieverklaring/
 
 ## Open Webconcept Bouwblokken
 Binnen het Open Webconcept delen we functionaliteiten door middel van bouwblokken, hiervoor gelden de volgende uitgangspunten:
