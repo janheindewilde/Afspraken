@@ -37,8 +37,8 @@ Voor deze bouwblokkken kunnen we dan ook bepaalde eisen ophalen:
 ## Invulling Bouwblokken
 Per bouwblok:
 * Te vinden op https://github.com/organizations/OpenWebconcept/
-* Licentie is EUPL
-* Eén repository met die bloknaam
+* Licentie is EUPL https://eupl.eu/
+* Eén repository per bouwblok
 * Wordpress notificatie wanneer er een update is
 * Gemeente is beheerder bouwblok
 * Leverancier plaats de code en maakt doet de aanpassingen (kan natuurlijk een gemeente zijn)
